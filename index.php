@@ -1,0 +1,312 @@
+<!DOCTYPE HTML>
+<html lang="zxx">
+
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RoouletteRoyalCasino</title>
+
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="assets/css/slicknav.min.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="assets/css/icofont.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="assets/css/slick.css">
+<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
+
+<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.css">
+
+<link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
+
+<link rel="stylesheet" type="text/css" href="assets/css/switcher-style.css">
+
+<link rel="stylesheet" type="text/css" href="assets/css/animate.min.css">
+
+<link rel="stylesheet" type="text/css" href="assets/css/style.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="assets/css/responsive.css" media="all" />
+
+<link rel="icon" type="image/png" href="assets/img/screenshot/s1.jpg" />
+
+</head>
+<body data-spy="scroll" data-target=".header" data-offset="50">
+
+<div id="preloader"></div>
+
+<header class="header">
+<div class="container">
+<div class="row flexbox-center">
+
+<div class="logo">
+<a href=""> <h3 style="color:white;" style="font-family: cursive;"><i>Rooulette Casino</i></h3> <!--<img src="assets/img/casino.png" alt="logo" style="height:70px;width:100px;">-->
+</div>
+<div class="col-lg-10 col-md-9 col-6">
+<div class="responsive-menu"></div>
+<div class="mainmenu">
+<ul id="primary-menu">
+<li><a class="nav-link active" href="#home">Home</a></li>
+<!--<li><a class="nav-link" href="#about">About Us</a></li>-->
+<li><a class="nav-link" href="#feature">Feature</a></li>
+<li><a class="nav-link" href="#contact">Contact Us</a></li>
+<li><a class="nav-link" href="https://roouletteroyalcasino.blogspot.com/2020/11/terms-and-conditions.html" target="_blank">Terms & Conditions</a></li>
+<li><a class="nav-link" href="https://roouletteroyalcasino.blogspot.com/2020/11/rooulette-royal-casino.html" target="_blank">Privacy Policy</a></li>
+<li><a class="appao-btn" href="apk/casino.apk" download>Download</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+<section class="hero-area" id="home">
+<div class="container">
+<div class="row">
+<div class="col-lg-7">
+<div class="hero-area-content">
+<h2 style="color:#fff">Play Best Online Rooulette Casino</h2></br>
+<h4 style="color:white;">With online casino players can enjoy the latest casino games and their favorite casino games, no matter where they are. Whether bettors want to play games to enjoy free online games, finding a secure casino online is essential.</h4></br>
+<a href="apk/casino.apk" class="appao-btn"  download>Download Now</a>
+</div>
+</div>
+<div class="col-lg-5">
+  <div class="hand-mockup text-lg-left text-center">
+<img src="assets/img/screenshot/a1.png" alt="Hand Mockup" />
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="about-area ptb-90" id="about">
+<div class="container">
+ <div class="row">
+<div class="col-lg-12">
+<div class="sec-title">
+<h2>About Us<span class="sec-title-border"><span></span><span></span><span></span></span></h2>
+</div>
+</div>
+</div>
+<div class="row">
+<h4>roouletteroyalcasino.online is a leading resource for every fans want to know about the world of rooulette casino.Whether it's impartial reviews of online casino in-depth game or sports events guides, finding the best bonuses, or creating fun free games, our team experts work every day to keep our readers up-to-date on the topics that matter to them.</h4>
+</div>
+</div>
+</section>
+<section class="feature-area ptb-90" id="feature">
+<div class="container">
+<div class="row flexbox-center">
+<div class="col-md-2">
+</div>
+<div class="col-md-4">
+<div class="single-feature-box text-lg-right text-center">
+<ul>
+<li>
+<div class="feature-box-info">
+<h4>Welcome Bonus</h4>
+<p>If new players deposit a certain amount in their accounts.</p>
+</div>
+<div class="feature-box-icon">
+<i class="icofont icofont-sun-alt"></i>
+</div>
+</li>
+<li>
+<div class="feature-box-info">
+<h4>Safety and Security</h4>
+<p>roouletteroyalcasino We review by looking into its operating company.</p>
+</div>
+<div class="feature-box-icon">
+<i class="icofont icofont-computer"></i>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-md-4">
+<div class="single-feature-box text-lg-right text-center">
+<ul>
+<li>
+<div class="feature-box-info">
+<h4>Play Live</h4>
+<p>Play roouletteroyalcasino With World.</p>
+</div>
+<div class="feature-box-icon">
+<i class="icofont icofont-law-document"></i>
+</div>
+</li>
+<li>
+<div class="feature-box-info">
+<h4>Unique & Fast</h4>
+<p>Beautiful, Unique Game Design and faster Gameplay.</p>
+</div>
+<div class="feature-box-icon">
+<i class="icofont icofont-heart-beat"></i>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-md-2">
+</div>
+</div>
+</div>
+</section>
+<section class="screenshots-area ptb-90" id="screenshot">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="sec-title">
+<h2>Screenshot<span class="sec-title-border"><span></span><span></span><span></span></span></h2>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div class="screenshot-wrap">
+<div class="single-screenshot">
+<img src="assets/img/screenshot/s1.jpg"  alt="screenshot" />
+</div>
+<div class="single-screenshot">
+<img src="assets/img/screenshot/s2.jpg"  alt="screenshot" />
+</div>
+<div class="single-screenshot">
+<img src="assets/img/screenshot/s3.jpg" alt="screenshot" />
+</div>
+<div class="single-screenshot">
+<img src="assets/img/screenshot/s4.jpg" alt="screenshot" />
+</div>
+<div class="single-screenshot">
+<img src="assets/img/screenshot/s5.jpg" alt="screenshot" />
+</div>
+<div class="single-screenshot">
+<img src="assets/img/screenshot/s6.jpg" alt="screenshot" />
+</div>
+<div class="single-screenshot">
+<img src="assets/img/screenshot/s7.jpg" alt="screenshot" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="download-area ptb-90" id="download">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="sec-title">
+<h2>Download Available<span class="sec-title-border"><span></span><span></span><span></span></span></h2>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<ul>
+<li>
+<a href="apk/casino.apk" class="download-btn flexbox-center" download>
+<div class="download-btn-text" style="padding-top:10px;padding-bottom:10px;">
+<h4>Download Now</h4>
+</div>
+</a>
+</li>
+<li>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer" id="contact" >
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="contact-form" style="margin-top:50px;">
+<h4>Get in Touch</h4>
+<p class="form-message"></p>
+<form id="contact-form" method="POST">
+<input type="text" name="name" placeholder="Enter Your Name">
+<input type="email" name="email" placeholder="Enter Your Email">
+<input type="number" name="mobile" placeholder="Enter Your Mobile">
+<input type="text" name="subject" placeholder="Your Subject">
+<textarea placeholder="Messege" name="message"></textarea>
+<button name="submit-stock" type="submit">Send Message</button>
+</form>
+ <?php
+                              if (isset($_POST['submit-stock'])) 
+                              {
+                               $subject1 =$_REQUEST['subject'];
+                               $email="roouletteroyalcasino@gmail.com";
+                               $headers1= "From: ".$_REQUEST['email'];
+                               $message1= "Name: ".$_REQUEST['name']. "\r\nMobile Number :".$_REQUEST['mobile']."\r\nMessage :".$_REQUEST['message'];
+                               $send_mail = mail($email,$subject1,$message1,$headers1);
+                               
+                                echo "<script>alert('Send Mail successfully...We Will Contact You Shortly')</script>";
+                            }
+             ?>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div class="copyright-area">
+<ul>
+<li><a href="https://www.facebook.com/Rooulette-Royal-Casino-112121473902380/" target="_blank"><i class="icofont icofont-social-facebook"></i></a></li>
+<li><a href="https://twitter.com/RoouletteCasino?s=09" target="_blank"><i class="icofont icofont-social-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/p/CCWc2WxFMsq/?igshid=1sk2h6ur740m0" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCz2NdmFIOvjP57ChPGdQYNA" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+</ul>
+<p>&copy; 
+Copyright 2020&copy; All rights reserved | This is made with <i class="fa fa-heart-o" aria-hidden="true"></i> Rooulette Royal Casino</a>
+ </p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a href="#" class="scrollToTop">
+<i class="icofont icofont-arrow-up"></i>
+</a>
+<script src="assets/js/jquery.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/bootstrap.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/jquery.slicknav.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/slick.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/owl.carousel.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/jquery.magnific-popup.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/jquery.counterup.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/waypoints.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/jquery.mb.YTPlayer.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/jquery.easing.1.3.html" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/gmap3.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnKyOpsNq-vWYtrwayN3BkF3b4k3O9A_A" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/custom-map.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/wow-1.3.0.min.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/switcher.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script src="assets/js/main.js" type="db60d537937cca46228eeb81-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13" type="db60d537937cca46228eeb81-text/javascript"></script>
+<script type="db60d537937cca46228eeb81-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+<script src="assets/js/rocket-loader.min.js" data-cf-settings="db60d537937cca46228eeb81-|49" defer=""></script></body>
+
+<!-- Mirrored from colorlib.com/preview/theme/prantokon/prantokon/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jun 2020 04:44:21 GMT -->
+</html>

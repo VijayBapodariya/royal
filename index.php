@@ -55,7 +55,7 @@
 <li><a class="nav-link" href="#contact">Contact Us</a></li>
 <li><a class="nav-link" href="https://roouletteroyalcasino.blogspot.com/2020/11/terms-and-conditions.html" target="_blank">Terms & Conditions</a></li>
 <li><a class="nav-link" href="https://roouletteroyalcasino.blogspot.com/2020/11/rooulette-royal-casino.html" target="_blank">Privacy Policy</a></li>
-<li><a class="appao-btn" href="apk/casino.apk" download>Download</a></li>
+<li><a class="appao-btn" href="apk1/casino.apk" download>Download</a></li>
 </ul>
 </div>
 </div>
@@ -69,7 +69,7 @@
 <div class="hero-area-content">
 <h2 style="color:#fff">Play Best Online Rooulette Casino</h2></br>
 <h4 style="color:white;">With online casino players can enjoy the latest casino games and their favorite casino games, no matter where they are. Whether bettors want to play games to enjoy free online games, finding a secure casino online is essential.</h4></br>
-<a href="apk/casino.apk" class="appao-btn"  download>Download Now</a>
+<a href="apk1/casino.apk" class="appao-btn"  download>Download Now</a>
 </div>
 </div>
 <div class="col-lg-5">

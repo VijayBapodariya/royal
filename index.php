@@ -232,17 +232,17 @@
 <button name="submit-stock" type="submit">Send Message</button>
 </form>
  <?php
-                              if (isset($_POST['submit-stock'])) 
-                              {
-                               $subject1 =$_REQUEST['subject'];
-                               $email="roouletteroyalcasino@gmail.com";
-                               $headers1= "From: ".$_REQUEST['email'];
-                               $message1= "Name: ".$_REQUEST['name']. "\r\nMobile Number :".$_REQUEST['mobile']."\r\nMessage :".$_REQUEST['message'];
-                               $send_mail = mail($email,$subject1,$message1,$headers1);
-                               
-                                echo "<script>alert('Send Mail successfully...We Will Contact You Shortly')</script>";
-                            }
-             ?>
+      if (isset($_POST['submit-stock'])) 
+      {
+       $subject1 =$_REQUEST['subject'];
+       $email="roouletteroyalcasino@gmail.com";
+       $headers1= "From: ".$_REQUEST['email'];
+       $message1= "Name: ".$_REQUEST['name']. "\r\nMobile Number :".$_REQUEST['mobile']."\r\nMessage :".$_REQUEST['message'];
+       $send_mail = mail($email,$subject1,$message1,$headers1);
+       
+        echo "<script>alert('Send Mail successfully...We Will Contact You Shortly')</script>";
+    }
+?>
 </div>
 </div>
 </div>
@@ -252,7 +252,7 @@
 <ul>
 <li><a href="https://www.facebook.com/Rooulette-Royal-Casino-112121473902380/" target="_blank"><i class="icofont icofont-social-facebook"></i></a></li>
 <li><a href="https://twitter.com/RoouletteCasino?s=09" target="_blank"><i class="icofont icofont-social-twitter"></i></a></li>
-<li><a href="https://www.instagram.com/p/CCWc2WxFMsq/?igshid=1sk2h6ur740m0" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><a href="https://www.instagram.com/roouletteroyalcasino/" target="_blank"><i class="fa fa-instagram"></i></a></li>
 <li><a href="https://www.youtube.com/channel/UCz2NdmFIOvjP57ChPGdQYNA" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
 </ul>
 <p>&copy; 
